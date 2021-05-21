@@ -1,6 +1,7 @@
 #crear variables
 area_cir=0
 lado=0
+mensaje=""
 
 print("por favor ingresar el valor de uno de los lados del trianqulo:")
 
